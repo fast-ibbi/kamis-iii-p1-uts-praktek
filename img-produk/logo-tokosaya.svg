@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo Tokosaya">
+  <rect width="64" height="64" rx="16" fill="#4F46E5"/>
+  <path d="M19 25h26l-2.6 23.2A5 5 0 0 1 37.4 53H26.6a5 5 0 0 1-5-4.8L19 25Z" fill="#FFFFFF"/>
+  <path d="M25.5 29v-5.5a6.5 6.5 0 0 1 13 0V29" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="32" cy="37" r="3.2" fill="#F59E0B"/>
+</svg>

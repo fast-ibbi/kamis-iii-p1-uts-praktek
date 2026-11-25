@@ -1,0 +1,6 @@
+# sistem
+.DS_Store
+
+# soal (internal, tidak dipublikasikan)
+soal-*.md
+soal-*.json
